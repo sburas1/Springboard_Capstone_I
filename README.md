@@ -21,7 +21,6 @@ This project uses Tableau to explore and analyze patterns in hotel booking cance
 | `Hotel_Booking_Cancellation_Analysis.twbx` | Tableau packaged workbook containing all dashboards |
 | `hotel_bookings.csv` | Original dataset used for analysis (from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)) |
 | `README.md` | Project description and documentation |
-| `dashboard_screenshots/` | Folder with images of dashboards for quick preview (optional) |
 
 ## 📈 Key Insights
 
