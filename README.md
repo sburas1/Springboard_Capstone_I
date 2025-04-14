@@ -45,7 +45,7 @@ This project uses Tableau to explore and analyze patterns in hotel booking cance
 ## 📌 Credits
 
 - Dataset: [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) via Kaggle
-- Visualizations and analysis by: *Your Name*
+- Visualizations and analysis by: Stacey Buras
 
 ---
 
